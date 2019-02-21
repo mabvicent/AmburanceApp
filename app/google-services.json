@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875314504213",
+    "firebase_url": "https://amburanceapp.firebaseio.com",
+    "project_id": "amburanceapp",
+    "storage_bucket": "amburanceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875314504213:android:8e68a6890f3a1add",
+        "android_client_info": {
+          "package_name": "com.example.amburanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875314504213-2lbol9te237lsg05b8be7lhng0mrr79s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amburanceapp",
+            "certificate_hash": "940193d58ec8b5fd532df07f1d1390d29e150941"
+          }
+        },
+        {
+          "client_id": "875314504213-0p0i3ie737hd2mk79jivhdbd8la7ptge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HihgmkLMO7fKuWWpZ-Mz8OUI05m_ZAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875314504213-0p0i3ie737hd2mk79jivhdbd8la7ptge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
